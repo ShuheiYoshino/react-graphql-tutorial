@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "apollo-boost": "0.1.16",
+    "dotenv": "^8.2.0",
     "graphql": "14.0.2",
     "react": "^17.0.1",
     "react-apollo": "2.1.11",
